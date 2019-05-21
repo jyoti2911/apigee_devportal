@@ -47,6 +47,12 @@ install:
 - views_slideshow
 - views_slideshow_cycle
 - simplenews
+- social_api
+- social_auth
+- social_auth_google
+- social_auth_facebook
+- social_auth_linkedin
+- social_auth_github
 
 # Required modules
 # Note that any dependencies of the modules listed here will be installed automatically.
